@@ -6,6 +6,7 @@ const Sidebar = () => {
        return( 
         <div className="md:w-2/6 xl:w-1/5 bg-gray-800">
             <div className="p-6">
+            <img src="https://aulapro.co/wp-content/uploads/2021/12/willie-wonka.png"></img>
                 <p className="uppercase text-white text-2xl tracking-wide text-center font-bold">Willie Wonka</p>
 
                 <p className="mt-3 text-gray-600">Catálogo de Productos:</p>
